@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+    
+        <tittle>Review</tittle>
+        
+        <style>
+        
+        /* Here is a CSS comment */
+        
+        img{
+            width:25%;
+        }
+        body {
+        font-family:serif;
+        
+        
+        </style>
+        
+    </head>
+    
+    <body>
+        
+        <h1>CoderSpace Review</h1> 
+        <!--This is an HTML comment --> 
+        
+        
+        <img src="images/coderspace.png">
+
+        <p>Visit <a href= "http://www.w3schools.com/">W3Schools</a> for HTML and CSS references.</p>
+        
+        <script type="text/javascript" src=>
+            
+            // This is a single line comment in Javascript
+            
+            /* Multiple lines in JS
+            
+        </script>
+    </body>
+
+</html> 

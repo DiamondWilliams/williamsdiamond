@@ -1,0 +1,22 @@
+img{
+            width:25%;
+        }
+        body {
+        font-family:'Oswald', sans-serif;
+        }
+        
+        a:link {
+            color:green;
+        }
+        
+        a:hover {
+            color :yellow;
+            background-color: purple;
+        
+        }
+        
+        a:active{
+            color:dark green;
+            background-color: orange;
+            
+        }
